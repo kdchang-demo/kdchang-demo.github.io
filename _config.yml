@@ -11,7 +11,7 @@ timezone: Asia/Taipei
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.kdchang.me
+url: https://www.kdchang.tw
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -23,7 +23,7 @@ pretty_urls:
 # Site settings
 SEOTitle: KD Chang 張凱迪 | 軟體工程師/產品專案經理/教育工作者
 header-img: img/cover.jpg
-email: kdchang.me@gmail.com
+email: kdchang.tw@gmail.com
 description: "KD 職場人生閱讀筆記。Hi 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對於個人成長、商業管理、投資理財、心理勵志、歷史人文、自然科普與職場人生的閱讀思考與觀察。歡迎一起交流討論，讓這個世界更加開放美好！"
 keyword: "個人成長, 自我提升, 跨領域閱讀/自主學習, 商業管理, 投資理財, 心理學, 心理勵志, 媒體出版, 社會創新, ESG/SDGs 永續發展, 創新創業, 數位科技, 經營管理, 歷史人文, 政治經濟, 公共政策與職場人生的思考與觀察"
 
@@ -35,7 +35,7 @@ keyword: "個人成長, 自我提升, 跨領域閱讀/自主學習, 商業管理
 github_username:    kdchang
 twitter_username:   kaidichang
 instagram_username:   kd.chang.cc
-facebook_username:  www.kdchang.me
+facebook_username:  www.kdchang.tw
 # linkedin_username: kaidichang
 
 # Build settings
@@ -50,7 +50,7 @@ disqus_username: kdchang-cc
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics 4
 ga_track_id: 'G-4V2CZ8CL7E'            # Format: UA-xxxxxx-xx
-ga_domain: www.kdchang.me
+ga_domain: www.kdchang.tw
 
 
 # Sidebar settings
@@ -68,7 +68,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "KD's Tech Blog",
-        href: "https://tech.kdchang.me/"
+        href: "https://tech.kdchang.tw/"
     },
     {
         title: "聽出職場軟實力 Podcast",
@@ -171,7 +171,7 @@ robotstxt:
   useragent: "*"
   disallow: ''
   sitemap: 
-    - https://www.kdchang.me/sitemap.xml
+    - https://www.kdchang.tw/sitemap.xml
   baidusitemap: 
     - /baidusitemap.xml
 
